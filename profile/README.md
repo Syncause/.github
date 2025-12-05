@@ -1,22 +1,32 @@
-**Syncause** builds the next-generation **AI SRE Agent** — an intelligent system that detects, explains, and resolves incidents across complex distributed environments.
-Our goal is to help engineers move faster, reduce noise, and make reliability observable, explainable, and automated.
+Software breaks, not just at the code level, but across the systems that run it. When something goes wrong, engineers are left piecing together scattered clues: logs, metrics, traces, configs, and assumptions. Debugging becomes slow, painful, and costly.
 
-### 🔍 What We Do
+Syncause exists to change that.
 
-* **AI-Powered Root Cause Analysis (RCA)** — Find the true cause of incidents in minutes, not hours.
-* **LLM Reasoning Transparency** — Every diagnosis includes a clear reasoning path that users can inspect and validate.
-* **Integration with Observability Data** — Combine metrics, logs, traces, and [eBPF signals](https://syn-cause.com/blog/35e631d5-28fa-4c46-9f44-54f84707a2a4/) for higher RCA accuracy.
-* **Continuous Learning** — Syncause evolves with your system, improving accuracy as more data and incidents are observed.
+We're building an AI-powered debugging assistant that unifies **code debugging** and **system root cause analysis** into one seamless experience. By capturing deep runtime context and combining it with intelligent root cause reasoning, Syncause helps engineers instantly understand *why* failures happen before they escalate into incidents.
 
-### 🚀 Why Syncause
+## What We Stand For
 
-Traditional AIOps tools rely on static models and manual tuning. Syncause takes a different approach — leveraging **Large Language Models (LLMs)** as reasoning engines that can dynamically interpret system behavior and propose evidence-based hypotheses.
-This leads to:
+* **Debugging should be intelligent**  
+  No more guesswork. Every failure leaves a trace; we make it visible and explainable.
 
-* Faster mean-time-to-diagnosis (MTTD)
-* Higher trust through interpretable outputs
-* Reduced operational fatigue
+* **Observability should be actionable**  
+  Data alone isn't enough; insights must drive confident decisions.
 
+* **Engineers should build, not firefight**  
+  Debugging shouldn't be the bottleneck to shipping and scaling great products.
+
+## What We Deliver
+
+* Clear, contextual insights from code to infrastructure
+* AI-driven root cause explanations you can trust
+* Faster recovery and higher developer productivity
+* Reduced user impact and operational stress
+
+## Our Vision
+
+To pioneer a new era of **autonomous debugging** where software understands itself well enough to help fix its own failures.
+
+## Repository
 ### 📊 Open Benchmark & Evaluation
 
 We believe that **AI SRE Agents must be transparent and measurable**.
